@@ -21,8 +21,8 @@ body {
 h1 {
     font-size: 2.5em;
     color: #FFFFFF;
-    margin-top: 40px;
-    margin-bottom: 80px;
+    margin-top: 20px;
+    margin-bottom: 60px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     font-family: 'Oswald', sans-serif;
     font-weight: 500; /* Deixando o título um pouco menos bold */
