@@ -7,6 +7,7 @@ html, body {
 /* Estilo geral e centralização */
 body {
     background: linear-gradient(to bottom, #007ecc, #013250); 
+    border: 2px solid red;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
